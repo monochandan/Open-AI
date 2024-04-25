@@ -7,6 +7,12 @@ git remote add origin https://github.com/monochandan/LLM-OpenAI.git
 ## git oush -u origin master
 #############################################
 
+##################### Updated file ##########
+git status
+git add .
+git commit -m "mssg"
+git push origin branch_name/master
+#############################################
 
 git remote -v
 
